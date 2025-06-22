@@ -1,0 +1,12 @@
+.ls-select {
+  color: white !important;
+  margin: auto 4px;
+}
+
+.ls-select > svg {
+  color: white;
+}
+
+.ls-select > fieldset {
+  border: none;
+}
